@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+   "$basetexture" "uch/scoreboard/ghost_spooky_right"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$nolod" "1"
+}

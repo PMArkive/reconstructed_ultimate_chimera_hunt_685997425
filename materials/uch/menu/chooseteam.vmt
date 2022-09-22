@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+   "$basetexture" "uch/menu/chooseteam"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$nolod" "1"
+}

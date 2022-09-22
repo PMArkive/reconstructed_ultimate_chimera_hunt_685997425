@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+   "$basetexture" "uch/hud/halloween/timer_pigs_captain"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$nolod" "1"
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+   "$basetexture" "uch/hud/halloween/timer_chimera"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$nolod" "1"
+}

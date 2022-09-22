@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Ultimate Chimera Hunt"
+	"maps"		"^ch_"
+	"menusystem"	"1"
+	"workshopid"	"685997425"
+}

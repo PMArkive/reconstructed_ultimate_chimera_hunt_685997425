@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "uch/hud/sprintbar_pigs"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nolod" "1"
+}

@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "uch/hud/counter_sitting"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 2.5
+		}
+	}
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$nolod" "1"
+}
